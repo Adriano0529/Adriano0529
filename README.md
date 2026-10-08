@@ -1,16 +1,42 @@
-## Hi there 👋
+# 🧪 Adriano's Laboratory
 
-<!--
-**Adriano0529/Adriano0529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://shields.io" alt="Age">
+  <img src="https://shields.io🇹🇼-red?style=flat-square" alt="Location">
+  <img src="https://shields.io" alt="MBTI">
+  <img src="https://shields.io♊%20May%2029%2C10-purple?style=flat-square" alt="Zodiac">
+</p>
 
-Here are some ideas to get you started:
+> 🛠️ **"Live for the rush."** 
+> 
+> Experiment log of a second-year high school student in Taiwan, ROC. 
+> Currently engineering and simulating the future of propulsion.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About the Lab
+This profile is an open-source log dedicated to aerospace engineering experiments, rocket propulsion design, and advanced fluid simulations. 
+
+- **Core Focus:** Rocket Engine Design & Aerospace Systems
+- **Current Flagship:** *Wrath of the Apollo CGT Rocket Engine* 🚀
+- **Research Interests:** Computational Fluid Dynamics (CFD), Mesh Optimization, Fluid Analytics
+
+---
+
+### 📂 Featured Project
+
+*   **[🚀 Rocket Nozzle ANSYS Simulation](https://github.com)**  
+    High-fidelity Computational Fluid Dynamics (CFD) analysis for advanced rocket engine nozzles. This repository contains mesh generation, thermal-fluid coupling setups, and flow analytics.
+
+---
+
+### 🌐 Connect & Follow the Logs
+
+*   **🧪 Instagram Lab:** [@adrianos_laboratory](https://instagram.com) — *Daily progress, design blueprints & simulation renders*
+*   **👤 Main Account:** [@a.m.marino_0529](https://instagram.com)
+
+---
+<p align="center">
+  <i>"Fueled by curiosity, validated by CFD."</i> 🌌
+</p>
+
